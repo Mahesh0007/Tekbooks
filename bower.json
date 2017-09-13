@@ -1,0 +1,18 @@
+{
+  "name": "tekbooks",
+  "description": "Simple Technology Book store",
+  "main": "index.js",
+  "author": "Mahesh babu Tatineni",
+  "moduleType": [
+    "amd"
+  ],
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/components",
+    "test",
+    "tests"
+  ]
+}
